@@ -118,5 +118,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [stars-url]: https://github.com/ARMcK-hub/D3-Times/stargazers
 [issues-shield]: https://img.shields.io/github/issues/ARMcK-hub/D3-Times.svg?style=flat
 [issues-url]: https://github.com/ARMcK-hub/D3-Times/issues
-[product-screenshot]: https://images-na.ssl-images-amazon.com/images/I/41sa7YauzhL._SY445_.jpg
+[product-screenshot]: https://raw.githubusercontent.com/ARMcK-hub/D3-Times/master/assets/images/Home_Page.png
 
